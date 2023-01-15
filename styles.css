@@ -1,0 +1,14 @@
+#main-header {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+#main-header #logo {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
